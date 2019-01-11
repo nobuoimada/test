@@ -1,6 +1,10 @@
-#FOSSologyをソースコードからインストールする手順
+# FOSSologyをソースコードからインストールする手順
 
-FOSSology (https://www.fossology.org/) には、(1)Dockerを使う (2)VagrantとVirtualBoxを使う (3)ソースコードからインストールする、の3つの主なインストール方法がある。この文書は、これらのうちソースコードからインストールする方法について、その手順を示すことを目的とする。
+FOSSology (https://www.fossology.org/) には、  
+(1)Dockerを使う  
+(2)VagrantとVirtualBoxを使う  
+(3)ソースコードからインストールする  
+の3つの主なインストール方法がある。この文書は、これらのうちソースコードからインストールする方法について、その手順を示すことを目的とする。
 
 ## 目次
 
@@ -81,9 +85,9 @@ $ sudo make install
 
 ## 5.  インストール後の設定
 
-この項目に記載の内容は、以下を参考にしている。
-https://github.com/fossology/fossology/wiki/Configuration-and-Tuning
-ただし、上記サイトの "Adjusting the Kernel" の項目については、PostgreSQL 9.3 およびそれ以降のバージョンでは設定不要である。
+この項目に記載の内容は、以下を参考にしている。  
+https://github.com/fossology/fossology/wiki/Configuration-and-Tuning  
+ただし、上記サイトの "Adjusting the Kernel" の項目については、PostgreSQL 9.3 およびそれ以降のバージョンでは設定不要である。  
 https://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.3
 
 ### 5.1 PostgreSQLのチューニング
@@ -146,8 +150,8 @@ $ sudo ./fo_scheduler -t
 
 Webブラウザから http://IP_ADDRESS/repo/ にアクセスしてユーザ名 fossy / パスワード fossy でログインし、以下を実施する。
 
-(1) 自分用のユーザアカウントを、管理者権限ありで作成する。
-(2) ユーザ fossy のパスワードを変更する。
+(1) 自分用のユーザアカウントを、管理者権限ありで作成する。  
+(2) ユーザ fossy のパスワードを変更する。  
 
 ## 7. FOSSologyスケジューラの起動
 
