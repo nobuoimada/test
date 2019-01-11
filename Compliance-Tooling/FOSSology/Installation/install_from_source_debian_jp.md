@@ -1,9 +1,11 @@
-# FOSSologyをソースコードからインストールする手順
+# FOSSology をソースコードからインストールする手順
 
 FOSSology (https://www.fossology.org/) には、  
+  
 (1)Dockerを使う  
 (2)VagrantとVirtualBoxを使う  
 (3)ソースコードからインストールする  
+  
 の3つの主なインストール方法がある。この文書は、これらのうちソースコードからインストールする方法について、その手順を示すことを目的とする。
 
 ## 目次
@@ -40,7 +42,7 @@ https://github.com/fossology/fossology/wiki/Configuration-and-Tuning
 
 |Item |Disk space usage|
 |---|---|
-|linux-4.19.6.tar.gz|155 MBytes|
+|Uploaded file (linux-4.19.6.tar.gz)|155 MBytes|
 |/srv/fossology/|2.3 GBytes|
 |/var/lib/postgresql/|513 MBytes|
 
