@@ -284,4 +284,4 @@ Michael: Yeah. I think there are a couple of steps before that, which already so
 
 Bradley: So, I’ll take my prerogative as a moderator to say on the Reproducible Builds question, and my very biased view because Reproducible Builds is a conservancy member project. But I thought this before they were a conservancy member project. It is the best things to come along in the last twenty years with regard to the complete corresponding source code problem in my view. So, without ______, I want to thank all of our panelists and many of them, before you clap, I want to let you to know many of them submitted talks of their own. And we cajole them into being on the panel together and set to having their own talks. They were very gracious about it and I would like you to give them ________.
 
---End--
+----
