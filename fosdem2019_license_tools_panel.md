@@ -4,9 +4,9 @@
 
 - This transcript is licensed under the Creative Commons Attribution 2.0 Belgium Licence, which is the same license as [the original video](https://fosdem.org/2019/schedule/event/license_tools_panel/) is licensed.
 
-- The time stamps in this text are in HH:MM:SS:FF format where HH, MM, SS, and FF are hour, minute, second, and [CDDA](https://en.wikipedia.org/wiki/Compact_Disc_Digital_Audio) frame, respectively.
+- The time stamps are in HH:MM:SS:FF format where HH, MM, SS, and FF are hour, minute, second, and [CDDA](https://en.wikipedia.org/wiki/Compact_Disc_Digital_Audio) frame, respectively.
 
-- This text has a lot of blanks (denoted by "____") and errors. If you are interested in improving this transcript, please send in your pull requests. Thank you in advance.
+- This transcript has a lot of blanks (denoted by "____") and errors. If you are interested in improving this transcript, please send in your pull requests. Thank you in advance.
 
 ----
 
