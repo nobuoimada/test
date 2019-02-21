@@ -2,7 +2,7 @@
 
 - This is an unofficial transcript from “Making Sense of so many License Compliance Tools” panel discussion held on Feb. 2nd, 2019 at FOSDEM 2019 in Brussels.
 
-- This transcript is licensed under the Creative Commons Attribution 2.0 Belgium Licence, which is the same license as [the original video](https://fosdem.org/2019/schedule/event/license_tools_panel/).
+- This transcript is licensed under the Creative Commons Attribution 2.0 Belgium Licence, which is the same license as [the original video](https://fosdem.org/2019/schedule/event/license_tools_panel/) is licensed.
 
 - The time stamps in this text are in HH:MM:SS:FF format where HH, MM, SS, and FF are hour, minute, second, and CDDA frame (75 frames per second), respectively.
 
