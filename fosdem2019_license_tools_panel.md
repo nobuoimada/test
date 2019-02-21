@@ -8,6 +8,8 @@
 
 - This text has a lot of blanks (denoted by "____") and errors. If you are interested in improving this transcript, please send in your pull requests. Thank you in advance.
 
+----
+
 Bradley Kuhn: So, this is our panel on making sense of license compliance tools. And, I’m going to ask … I’m moderating. My name is Bradley Kuhn from the Software Freedom Conservancy. So, I’m going to start off and ask each panels to introduce yourself no more than thirty seconds each, who you are, where are you affiliated with, and what are your relationships with license compliance.
 
 Thomas Steenbergen: OK. So, my name is Thomas Steenbergen. I work for HERE Technologies. We are part of team behind Open Source Review Toolkit. I’m also involved in SPDX. And I’m also involved in ClearlyDefined.
