@@ -1,12 +1,12 @@
+# Making Sense of so many License Compliance Tools
+
 - This is an unofficial transcript from “Making Sense of so many License Compliance Tools” panel discussion held on Feb. 2nd, 2019 at FOSDEM 2019 in Brussels.
 
 - This transcript is licensed under the Creative Commons Attribution 2.0 Belgium Licence, which is the same license as [the original video](https://fosdem.org/2019/schedule/event/license_tools_panel/).
 
-- The time stamps in this text are in HH:MM:SS:FF format where HH=hour, MM=minute, SS=second, and FF=CDDA frame (75 frames per second).
+- The time stamps in this text are in HH:MM:SS:FF format where HH, MM, SS, and FF are hour, minute, second, and CDDA frame (75 frames per second), respectively.
 
-- If you are interested in improving this transcript, please send in your pull requests. Thank you in advance.
-
-# Making Sense of so many License Compliance Tools
+- This text has a lot of blanks (denoted by "____") and errors. If you are interested in improving this transcript, please send in your pull requests. Thank you in advance.
 
 Bradley Kuhn: So, this is our panel on making sense of license compliance tools. And, I’m going to ask … I’m moderating. My name is Bradley Kuhn from the Software Freedom Conservancy. So, I’m going to start off and ask each panels to introduce yourself no more than thirty seconds each, who you are, where are you affiliated with, and what are your relationships with license compliance.
 
