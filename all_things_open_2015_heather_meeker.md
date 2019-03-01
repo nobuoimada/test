@@ -1,8 +1,8 @@
 # Setting Your Code Free
 
-- This is an unofficial transcript from "Setting Your Code Free" talk by [Heather Meeker][1] at [All Things Open][2] 2015.
+- This is an unofficial transcript from ["Setting Your Code Free" talk][4] by [Heather Meeker][1] at [All Things Open][2] 2015.
 
-- This transcript is licensed under the [Creative Commons Attribution license (reuse allowed)][3], under which the [original video][4] is licensed.
+- This transcript is licensed under the [Creative Commons Attribution license (reuse allowed)][3].
 
 - If you are interested in improving this transcript, please send in your pull requests.
 
