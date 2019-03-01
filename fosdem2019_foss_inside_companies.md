@@ -107,7 +107,7 @@ Duane: So, I will take the second one first in the legal room and say, “I’m 
 
 Jeff: So, I would go down roughly what you are saying but I’d also think look internal and see if you can make an opensource-ish inner source culture inside the company. So, you don’t have to actually open source it. You can … being small company, but still you can have people who are working in different parts of the company collaborating on those libraries and working together and sharing ideas. I differ a little bit on what Duane said in that … yeah, you can pollute the stream. But don’t presume that … You are not special. I’m sorry. You are not. Right? And so, don’t presume that there isn’t somebody else out there who might want to be doing … They might just take your stuff and run with it. And that’s cool. That’s fine because you might find somebody else’s stuff and you will be able to use it. Or they might come and contribute. So, making ___ clarity, absolutely. That’s one of the biggest. The discover-ability problem we have right now is horrible. And you show up to a project. You don’t know whether is dead, or whether it’s alive, or what’s going on. And that’s a really big problem. So, definitely go down that path. But I would … I’d try to default open. But clarity. Right? You need to be clear about what is it you are doing. And I would go for open first.
 
-Nithya: So, I’m addressing a different one, which is congratulations on starting an open source working group. I think in a small company, that’s the way to go, with lots of volunteers and lots of little time. And as you scale, you’ll probably create more of a dedicated one. And if you are looking for more resources on how to create an open source program office, there’s a group called TODO group, [todogroup.org][6], which has a lot of case studies and journals and resources on how to start your own program office.
+Nithya: So, I’m addressing a different one, which is congratulations on starting an open source working group. I think in a small company, that’s the way to go, with lots of volunteers and lots of little time. And as you scale, you’ll probably create more of a dedicated one. And if you are looking for more resources on how to create an open source program office, there’s a group called [TODO group, todogroup.org][6], which has a lot of case studies and journals and resources on how to start your own program office.
 
 Charles: Yeah, and the other thing. I think you know there’s big open source projects and small open source projects. Most of what I’m dealing with are lots of lots of very small open source projects. Just some sample code around how to use an API or something like that. So then, in having that discussion of ______ open source it or not … I mean, we don’t want to throw a bunch of junk out there that’s not been maintained. But, so, I think the thing to do is make sure that … of course the README has to be good and describe how to use the software. But whether it’s in the readme or a contributing file, we make sure we put something about what are our goals with this. Are we trying to start a community around it? Are we welcoming contributions? Or, at least, engineer who built it just like, “Hey, I want people to see an example. But I don’t really want bug fixes or extensions _____. If this helps you copy, start using it, fine. If it doesn’t … Just put that disclaimer out there to … of what are your intentions. And often times, that will influence your license choice, too, I think. Right? What … Depending on what you want is longevity and the … kind of give back sort of model of this to be.
 
@@ -116,7 +116,7 @@ Attendee 4: So, there’s a lot of old, mature code out there down in the guts o
 
 Charles: Yeah, I can talk a little bit … I mean, you know there have been some community efforts to try to address that, like with in the Linux Foundation there’s … forget what it is  but … 
 
-Nithya: Core Infrastructure Initiative
+Nithya: [Core Infrastructure Initiative][8]
 
 Charles: Yeah, Core Infrastructure, thank you. So, one thing is contributing with money toward that initiative. The other way is also by contributing with developers in some cases. Often times the money, at a large company is easier to do. So, I think you start with that. But if there’s a skill set or personal interest or whatever within the company, that’s also very welcome. So, both ways. And I agree with it. It’s something we need to take care of and address.
 
@@ -192,3 +192,5 @@ Tom: Well, we’ve come to the end of our time. And I just want to enthusiastica
 [5]: http://faif.us/cast/2016/sep/02/0x5C/
 [6]: https://todogroup.org/
 [7]: https://3rdpartysource.microsoft.com/
+[8]: https://www.coreinfrastructure.org/
+
