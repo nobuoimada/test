@@ -55,7 +55,7 @@ Question: [inaudible]
 
 Definitely protected from your patents.
 
-Question: [inaudible]https://www.omm.com/professionals/heather-j-meeker/
+Question: [inaudible]
 
 Right. So, so, I’ll explain, just like restate, that a little in case it’s helpful, which is it’s fine to seek patent protection on something you are contributing. You can’t enforce that against people who are using under the open source license, or it’s very difficult to do. But you can still enforce it against someone else who might attack the open source project. So it can be used as a defensive mechanism. Uh, most of my clients don’t have a lot of money for patent prosecution as they are startups and so forth. So they are really balancing resources. So I’m usually saying, you know, spend your money elsewhere but it’s not that it doesn’t make sense at all. It can make the patents more difficult to enforce in some subtle ways, which I won’t go into here. So, what it means is you’re willing to spend some money on patent prosecution that might never net you a return. But it’s not irrational to do it. It’s just, uh, not what most people do.
 
