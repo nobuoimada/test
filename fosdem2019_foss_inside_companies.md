@@ -189,7 +189,7 @@ Tom: Well, we’ve come to the end of our time. And I just want to enthusiastica
 [2]: https://fosdem.org/2019/
 [3]: https://creativecommons.org/licenses/by/2.0/be/deed.en
 [4]: https://en.wikipedia.org/wiki/Compact_Disc_Digital_Audio
-[5]: http://faif.us/cast/2016/sep/02/0x5C/
+[5]: http://faif.us/cast/2016/nov/01/0x5E/
 [6]: https://todogroup.org/
 [7]: https://3rdpartysource.microsoft.com/
 [8]: https://www.coreinfrastructure.org/
