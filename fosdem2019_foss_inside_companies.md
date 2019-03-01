@@ -72,7 +72,6 @@ Charles: Yes, so, let’s see. At Cisco, the default policy is any thing you do 
 
 So, in terms of coming in and when you first get hired, I think … the thing to do is just have a discussion around ____ these are the things I already … I’m contributing to, I want to contribute to. And putting a Cisco copyright won’t fly within that arena for these reasons. And then make sure that that’s understood coming in. But there’s no reason ________ also can happen after you are _____ and start contributing. So far, I haven’t really seen that be a big problem.
 
-00:20:23:00  
 Tom: OK, well, thank you for those answers. And I have ______ more questions. But I want to give everybody here an opportunity to ask questions, too. So, I’m going to pass the mic to Karen and let you ask some questions of our panelists.
 
 00:20:54:00  
