@@ -56,7 +56,7 @@ So, driving participation and trying to get half of our engineers there. That’
 00:13:41:63  
 Tom: I think it was muted. That’s why. A user error. Some people call that error 39.
 
-So, I have a question as a developer. I want to ask you a question about your employees. And this is inspired by a podcast that Karen and Bradley did a long time ago on [the Free as in Freedom podcast, FAIF.us][5]. I’d recommend you look it up. And it was about this thing called, uh … yeah, ya, clap … It’s the contract patch project. And the idea, if you hadn’t heard of it, was that when you join a company as a new employee, that’s the moment when you have the opportunity, or you have most power in negotiating the terms of your employee contract. And if you are an open source software developer, one of the discussions that you have an opportunity to have your employer is, “can I keep copyright in a project that I am actively contributing to or that I will contribute to?”
+So, I have a question as a developer. I want to ask you a question about your employees. And this is inspired by a podcast that Karen and Bradley did a long time ago on [the Free as in Freedom podcast][5], [FAIF.us][9]. I’d recommend you look it up. And it was about this thing called, uh … yeah, ya, clap … It’s the contract patch project. And the idea, if you hadn’t heard of it, was that when you join a company as a new employee, that’s the moment when you have the opportunity, or you have most power in negotiating the terms of your employee contract. And if you are an open source software developer, one of the discussions that you have an opportunity to have your employer is, “can I keep copyright in a project that I am actively contributing to or that I will contribute to?”
 
 Obviously, I would license the work, you know, maybe not obviously, but you could have the employee license that were back to the company as a variation from the default work-for-hire situation. And I think it’s tough for all employees when you are excited about new job to enter into a discussion about terms of an employee contract because frankly it’s scary and on the other side of the table are the lawyers and your manager, potential manager. But it’s … **My question is how do you welcome new employees that might becoming from free and open source software contribution role. Or, how could you make that more friendly? And, or, have you ever considered the idea of letting employees keep copyright in their projects?**
 
@@ -192,4 +192,4 @@ Tom: Well, we’ve come to the end of our time. And I just want to enthusiastica
 [6]: https://todogroup.org/
 [7]: https://3rdpartysource.microsoft.com/
 [8]: https://www.coreinfrastructure.org/
-
+[9]: http://faif.us/
