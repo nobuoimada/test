@@ -44,9 +44,7 @@ For me, I think success comes from having … enabling the developers within my 
 
 And then, when things like GitHub coming around, it’s so easy now, even accidentally, to share a code. And what I’m seeing is more and more people are putting code out there on GitHub whether they are supposed to or not, whether they understand what are licenses or not, whether they really think through what they are doing.
 
-So, a big part of what I’m trying to do is not stop them, but just to try to have a conversation with them, to educate them about. Do you realize if you don’t put a license, you are not really doing some one a favor, you are actually hurting them because down there no license to use your stuff? To a lot of people, that’s just come with surprise.
-
-So, helping people do what they want to do, but still do it right way, right to be a good open source kind of contributor and, as Duane was saying, a member of community and not just be throwing a bunch of stuff out there.
+So, a big part of what I’m trying to do is not stop them, but just to try to have a conversation with them, to educate them about, "do you realize if you don’t put a license, you are not really doing some one a favor, you are actually hurting them because down there no license to use your stuff?" To a lot of people, that’s just come with surprise. So, helping people do what they want to do, but still do it right way, right to be a good open source kind of contributor and, as Duane was saying, a member of community and not just be throwing a bunch of stuff out there.
 
 So, a lot of what I’m doing is just trying to have that happen. It is difficult to measure. But I think just by looking at the amount of code that’s out there, and talking to our developer community and see are they able to find what they need. That’s how I’m kind of measuring it.
 
