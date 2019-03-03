@@ -1,6 +1,6 @@
 - This is an unofficial transcript from [Advocating For FOSS Inside Companies Redux][1] panel discussion at [FOSDEM 2019][2].
 
-- This transcript is licensed under the [Creative Commons Attribution 2.0 Belgium Licence][3], under which the original video is licensed.
+- This transcript is licensed under the [Creative Commons Attribution 2.0 Belgium Licence][3].
 
 - The time stamps are in HH:MM:SS:FF format where HH, MM, SS, and FF are hour, minute, second, and [CDDA][4] frame, respectively.
 

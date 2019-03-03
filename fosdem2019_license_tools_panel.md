@@ -1,6 +1,6 @@
 - This is an unofficial transcript from [“Making Sense of so many License Compliance Tools”][1] panel discussion held on Feb. 2nd, 2019 at [FOSDEM 2019][2].
 
-- This transcript is licensed under the [Creative Commons Attribution 2.0 Belgium Licence][3]), under which [the original video][1] is also licensed.
+- This transcript is licensed under the [Creative Commons Attribution 2.0 Belgium Licence][3]).
 
 - The time stamps are in HH:MM:SS:FF format where HH, MM, SS, and FF are hour, minute, second, and [CDDA][4] frame, respectively.
 
