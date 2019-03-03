@@ -1,12 +1,11 @@
-# Setting Your Code Free
-
 - This is an unofficial transcript from ["Setting Your Code Free" talk][4] by [Heather Meeker][1] at [All Things Open][2] 2015.
 
 - This transcript is licensed under the [Creative Commons Attribution license (reuse allowed)][3].
 
 - If you are interested in improving this transcript, please send in your pull requests.
 
-#
+# Setting Your Code Free
+
 OK, well, we might as well sort of get started. So, and I think this is one of the only legal talks ________ conference. So thank you for being ________ and showing up here to talk about legal subjects and listen about it. Uh, by the way, feel free to break in with the questions any time you like. Don’t hesitate to interrupt. If you have a question about something, it’s possible that … likely that people sitting next to you do as well.
 
 So, uh, thanks for coming to the _________ but I think, uh, might be interesting. Uh, I’m Heather Meeker. I’m a lawyer in private practice. I work at a law firm called O'Melveny and Myers, which is a big international law firm. And my specialty is open source software licensing, which I’ve been working in for longer than it’s been cool. So, uh, quite a few years now.
