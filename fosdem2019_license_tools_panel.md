@@ -1,4 +1,4 @@
-- This is an unofficial transcript from [“Making Sense of so many License Compliance Tools”][1] panel discussion held on Feb. 2nd, 2019 at [FOSDEM 2019][2].
+- This is an unofficial transcript from [Making Sense of so many License Compliance Tools][1] panel discussion at [FOSDEM 2019][2].
 
 - This transcript is licensed under the [Creative Commons Attribution 2.0 Belgium Licence][3]).
 
