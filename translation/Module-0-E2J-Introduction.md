@@ -1,10 +1,10 @@
 (slide 1)
 
-#FOSSology: Hands On Training
+# FOSSology: Hands On Training
 
 (slide 2)
 
-##Overview: Contents
+## Overview: Contents
 
 1. Motivation
 What is the need today
@@ -25,23 +25,23 @@ Try it on your own
 
 ## Methodology
 
-###How we go through the day
+### How we go through the day
 - Check that everyone has been able to install on machine and download example files.
 - Presentations to explain foundations
 - Presenting application features to understand how they work, then trying hands on.
 
-###Supplementation Material and Install Instructions
+### Supplementation Material and Install Instructions
 - Some of the exercises require example files
 - Documentation for the installation of FOSSology 
 - https://wiki.fossology.org/handson
 
-###Hands on and trying on your own
+### Hands on and trying on your own
 Please do not hesitate to ask questions, please focus on FOSSology
 Consider that if everyone is shy about asking questions no one will ask
 
 (slide 5)
 
-##Thank you for your attention!
+## Thank you for your attention!
 
 (C) 2016-2018  Siemens AG, The Linux Foundation
 
@@ -61,4 +61,4 @@ https://www.openchainproject.org
 https://github.com/sw360/sw360portal
 
 
-(C) 2016-2018  Siemens AG, The Linux Foundation, Translated by OpenChain Japan WG - CC-BY-SA 4.0
+(C) 2016-2018  Siemens AG, The Linux Foundation - CC-BY-SA 4.0
