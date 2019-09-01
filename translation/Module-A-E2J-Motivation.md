@@ -1,10 +1,10 @@
 (slide 1)
-#FOSSology: License Analysis
+# FOSSology: License Analysis
 
 Part I: Why do we need to look at licenses?
 
 (slide 2)
-##What is Open Source Software Licensing?
+## What is Open Source Software Licensing?
 
 Basics about Licensing
 - Obligations
@@ -25,7 +25,7 @@ Further reading:
 - The TLDR Legal pages at https://tldrlegal.com/ provide OUTLINES about license obligations, restrictions, rights
 
 (slide 3)
-##Open Source Software Licenses
+## Open Source Software Licenses
 
 Open Source Licenses
 - There are many of them
@@ -41,9 +41,9 @@ Further reading:
 
 (slide 4)
 
-##Analysis – Not Only Scanning but also Concluding
+## Analysis – Not Only Scanning but also Concluding
 
-###What are the goals?
+### What are the goals?
 It is about telling the software developers what to care for:
 
 1. Identify obligations to fulfill, including providing for example
@@ -62,12 +62,12 @@ Further reading:
 
 
 (slide 5)
-#FOSSology: Component Analysis
+# FOSSology: Component Analysis
 
 Part II: Motivating Examples
 
 (slide 6)
-##Examples for Licensing – Clarification Needed
+## Examples for Licensing – Clarification Needed
 
 (all examples from the same package zlib-1.2.8.tar.gz)
 
@@ -77,7 +77,7 @@ Part II: Motivating Examples
 
 
 (slide 7)
-##Examples for Licensing – Clarification Needed 2
+## Examples for Licensing – Clarification Needed 2
 
 (from zlib-1.2.8.tar/ zlib-1.2.8/ contrib/ amd64/ amd64-match.S)
 
@@ -86,7 +86,7 @@ Another real world example:
 - Question: Can this be ignored or shall the origination check for ownership of referred parafernalia?
 
 (slide 8)
-##Examples for Licensing – Clarification Needed 3
+## Examples for Licensing – Clarification Needed 3
 (TrueCrypt 7.1a Source.zip/ Common/ Cache.c)
 
 Another real world example:
@@ -94,7 +94,7 @@ The text is actually occurs with this formatting in file
 Very special occurrence in fact that requires review
 
 (slide 9)
-##Examples for Licensing – Clarification Needed 4
+## Examples for Licensing – Clarification Needed 4
 
 (TrueCrypt 7.1a Source.zip/ Crypto/ AesSmall.h)
 
@@ -103,7 +103,7 @@ Another real world example:
 - There may be an external reason for choosing either one or the another
 
 (slide 10)
-##Examples for Licensing – Attention Needed 5
+## Examples for Licensing – Attention Needed 5
 
 Another real world example:
 - It is actually based on an MIT license text
@@ -113,13 +113,13 @@ Another real world example:
 - Very hard to identify with regular expression matching
 
 (slide 11)
-##Some Example from out in the wild (1)
+## Some Example from out in the wild (1)
 
 (slide 12)
-##Some Example from out in the wild (2)
+## Some Example from out in the wild (2)
 
 (slide 13)
-##Examples for Copyrights – Clarification Needed
+## Examples for Copyrights – Clarification Needed
 
 1. Examples of incomplete statements
     a) Year missing
@@ -136,11 +136,11 @@ Another real world example:
 - The Wikipedia article on the Berne convention presents the basics and origin about copyright law https://en.wikipedia.org/wiki/Berne_Convention
 
 (slide 14)
-#FOSSology: Component Analysis
+# FOSSology: Component Analysis
 Part III: Scope and Terminology
 
 (slide 15)
-##Analyzing the License Situation of a Component
+## Analyzing the License Situation of a Component
 
 Analysis & Clarification of Compliance Issues
 
@@ -150,7 +150,7 @@ Analysis & Clarification of Compliance Issues
     c) Opposed the usage clearing: considers all involved components
 
 (slide 16)
-##Misconceptions: Other Terms and Analysis
+## Misconceptions: Other Terms and Analysis
 
 Component Analysis & Clarification of Component License Condition
 
@@ -165,7 +165,7 @@ Component Analysis & Clarification of Component License Condition
 licensing or business case compatibility
 
 (slide 17)
-##License Analysis of a Component - Summary
+## License Analysis of a Component - Summary
 
 1. Overall goals
     a) Comply with OSS community and mitigate risk
@@ -189,7 +189,7 @@ licensing or business case compatibility
     - Reporting of found licenses
 
 (slide 18)
-##Thank you for your attention!
+## Thank you for your attention!
 
 (C) 2016-2018  Siemens AG, The Linux Foundation
 
