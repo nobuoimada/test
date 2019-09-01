@@ -10,6 +10,7 @@ Basics about Licensing
 - Obligations
 - Restrictions
 - Rights
+
 Example for GPL version 2.0 (selection)
 - Obligations
     - Include original source, copyrights
