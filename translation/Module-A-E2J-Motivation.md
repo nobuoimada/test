@@ -1,15 +1,22 @@
 (slide 1)
 # FOSSology: License Analysis
+FOSSology: ライセンス解析
 
 Part I: Why do we need to look at licenses?
+Part I: なぜライセンスに着目しなければならないのか？
 
 (slide 2)
 ## What is Open Source Software Licensing?
+オープンソースソフトウェアのライセンス許諾とは何か？
 
 Basics about Licensing
+ライセンス許諾の基本事項
 - Obligations
+- 義務
 - Restrictions
+- 制限事項
 - Rights
+- 権利
 
 Example for GPL version 2.0 (selection)
 - Obligations
