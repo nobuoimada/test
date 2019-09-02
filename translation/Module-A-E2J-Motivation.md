@@ -19,14 +19,23 @@ Basics about Licensing
 - 権利
 
 Example for GPL version 2.0 (selection)
+GPLバージョン2.0の例 (抜粋)
 - Obligations
+- 義務
     - Include original source, copyrights
+    - オリジナルのソースコードと著作権表示を含めること
     - Include license
+    - ライセンス文を含めること
 - Restrictions
+- 制限事項
     - Cannot be held liable
+    - 著作権者は一切の責任を問われない
 - Rights
+- 許諾される権利
     - Modify
+    - ソフトウェアを改変する権利
     - Distribute
+    - ソフトウェアを配布する権利
 
 Further reading:
 - The Linux Foundation provides a public training including basics about licensing https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers
