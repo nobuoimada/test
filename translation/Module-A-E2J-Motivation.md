@@ -38,16 +38,24 @@ GPLバージョン2.0の例 (抜粋)
     - ソフトウェアを配布する権利
 
 Further reading:
+もっと知りたい人は…
 - The Linux Foundation provides a public training including basics about licensing https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers
+- Linux Foundationは、ライセンス許諾の基礎を含むトレーニングを提供しています。 https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers
 - The TLDR Legal pages at https://tldrlegal.com/ provide OUTLINES about license obligations, restrictions, rights
+- TL;DR Legal では、多数のライセンスの義務、制限事項、権利の概要を提供しています。
 
 (slide 3)
 ## Open Source Software Licenses
+オープンソースソフトウェアのライセンス
 
 Open Source Licenses
+オープンソースライセンス
 - There are many of them
+- 多くの種類がある
 - “License proliferation”
+- ライセンスの氾濫の問題
 - They can be categorized, but requires effort and assessment
+- ライセンスは分類可能であるが、努力と判断を要する
     - Copyleft vs. permissive licenses
     - GPL version 2 compatibility
     - Patent left effect
