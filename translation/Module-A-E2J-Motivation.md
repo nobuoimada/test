@@ -72,14 +72,13 @@ Further reading:
 SPDX License List http://spdx.org/licenses/ は、よく知られているオープンソースライセンスのリストです。
 
 (slide 4)
-
 ## Analysis – Not Only Scanning but also Concluding
 解析 - スキャンするだけではなく、結論を下すこと
 
 ### What are the goals?
 ゴールは何か？  
 It is about telling the software developers what to care for:  
-ソフトウェア開発者に対して、何に気をつけなければならないかを伝えることがポイント
+ソフトウェア開発者に対して、何に配慮しなければならないかを伝えることがポイント
 
 1. Identify obligations to fulfill, including providing for example  
 満足しなければならない義務条件 (たとえば以下のような情報の提供) を明らかにすること  
@@ -94,7 +93,7 @@ It is about telling the software developers what to care for:
 	a) Simple example: GPL version 2 and CC-BY-SA (copyleft effect examples)  
 	コピーレフトの代表例としては、GPLバージョン2やCC-BY-SA  
 1. Be able to check desired usage  
-使いたい用途をチェックできるようになること  
+所望の用途をチェックできるようになること  
 	a) Does you business case match the licensing?  
 	ライセンス許諾条件がビジネスケースに合っているか？  
 	b) Is the context of usage envisaged from the OSS publishers  
@@ -138,7 +137,7 @@ Part II: 一筋縄ではいかない例の数々
 Another real world example:  
 もう一つの、現実にある例：この例では、チェ・ゲバラのグッズを持っている人の使用を禁止すると書いてある
 - What was meant to be fun (or a political statement), is difficult for license analysis  
-面白さを狙って (あるいは政治的な意見を) 書かれたものは、ライセンス解析には厄介
+面白さを狙って (あるいは政治的な主張を) 書かれたものは、ライセンス解析には厄介
 - Question: Can this be ignored or shall the origination check for ownership of referred parafernalia?  
 質問：これは無視して良いでしょうか、それとも、著作者はそのようなグッズの所有をチェックするのでしょうか？
 
@@ -182,7 +181,7 @@ Another real world example:
 MITライセンスは大変良く知られており、パーミッシブである
 - Added two conditions inside the original license text
 (not so permissive)  
-オリジナルのライセンス文に、あまりパーミッシブではない２つの条件が追加されている
+しかしながらこの例では、オリジナルのライセンス文に、あまりパーミッシブではない２つの条件が追加されている
 - Very hard to identify with regular expression matching  
 これを正規表現によるマッチングで見つけるのはとてもむずかしい
 
@@ -192,7 +191,7 @@ MITライセンスは大変良く知られており、パーミッシブであ�
 
 - 文字コード (u00A9)
 - 文字化け
-- ？
+- All Rights Reserved. とだけ書かれていてライセンスが不明
 
 (slide 12)
 ## Some Example from out in the wild (2)
@@ -311,7 +310,7 @@ FOSSology プロジェクトは、ツールによるライセンスの特定を�
     - Finding license relevant texts  
     ライセンスに関連するテキストの検出  
     - Aggregation in a hierarchy  
-    検出結果の階層的集約  
+    ソースツリーを階層的に集約して表示  
     - Highlighting text occurrences  
     テキスト中の着目部分をハイライト  
     - Identifying wording differences compared with reference texts  
@@ -323,7 +322,7 @@ FOSSology プロジェクトは、ツールによるライセンスの特定を�
 
 (slide 18)
 ## Thank you for your attention!
-お疲れ様でした！
+ご清聴ありがとうございました！
 
 (C) 2016-2018  Siemens AG, The Linux Foundation
 
