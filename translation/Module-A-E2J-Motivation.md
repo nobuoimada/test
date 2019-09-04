@@ -282,7 +282,7 @@ OSSコンポーネントに着目するか、それとも自社のプロダク�
 コンポーネントのライセンス解析 - まとめ
 
 1. Overall goals  
-全体的なゴール
+全体的なゴール  
     a) Comply with OSS community and mitigate risk  
     OSSコミュニティのライセンス条件を遵守することでリスクを軽減する  
     b) Help the engineering with definitive instructions  
@@ -328,19 +328,19 @@ FOSSology プロジェクトは、ツールによるライセンスの特定を�
 (C) 2016-2018  Siemens AG, The Linux Foundation
 
 
-CC-BY-SA 4.0
+CC-BY-SA 4.0  
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Internet
+Internet  
 https://www.fossology.org
 
-Github
+Github  
 https://github.com/fossology/fossology
 
-もっと知りたい人は、
-https://www.spdx.org
-https://www.openchainproject.org
-https://github.com/sw360/sw360portal
+もっと知りたい人は、  
+https://www.spdx.org  
+https://www.openchainproject.org  
+https://github.com/sw360/sw360portal  
 
 
 (C) 2016-2018  Siemens AG, The Linux Foundation - CC-BY-SA 4.0
