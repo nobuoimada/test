@@ -257,7 +257,7 @@ Precision
 
 (slide 16)
 ## Thank you for your attention!
-お疲れ様でした！
+ご清聴ありがとうございました！
 
 (C) 2016-2018  Siemens AG, The Linux Foundation
 
