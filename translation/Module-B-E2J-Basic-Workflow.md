@@ -4,7 +4,7 @@
 (slide 2)
 ## The Problem Actually
 
-####You know these examples  
+#### You know these examples  
 
 Distributing open source software requires to  
 - Provide licenses of involved software  
@@ -218,13 +218,64 @@ Precision
 (slide 13)
 ## More Features in FOSSology
 
+- Workflow integration with command line interfaces  
+    - Do uploads and scans from the command line, right from your scripts  
+    - Or just run individual agents (e.g. for licenses) from command line  
+    - Schedule activities / integrate them into automated workflows  
+- ECC (Export Control and Customs)  
+    - Regular expressions searching for export control and customs  
+- License data sets import and export  
+    - Regular expressions searching for export control and customs  
+- Buckets  
+    - Define rules for files with license results for collecting them in dedicated lists / buckets  
 
 (slide 14)
+## FOSSology is Open Source
 
+#### What happens actually?
+
+- As an organization distributing software there is responsibility for license compliance  
+- This work must be actually provided by 3rd parties as well!  
+- With FOSSology, a tool is freely available supporting all kind of organizations with their license compliance efforts  
+- GPL-2.0 licensed  
 
 (slide 15)
+## Overview: FOSSology Hands On
 
+1. Basic End-to-End Workflow  
+    Overview: What do I need to do actually to get the SPDX / Readme / DEP5  
+1. Accelerate the File Handling  
+    Using bulk scanning to correct scan results  
+1. Reuse of Clearing Decisions  
+    Process only differences for newer versions of a scanned component  
+1. Management of Licenses  
+    See the licenses and where to edit  
+    Export and import more licenses  
+1. Organizing the Uploads  
+    Getting started with folders, uploads and access rights  
+    Creating users and groups  
 
 (slide 16)
+## Thank you for your attention!
+お疲れ様でした！
 
+(C) 2016-2018  Siemens AG, The Linux Foundation
+
+
+CC-BY-SA 4.0  
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Internet  
+https://www.fossology.org
+
+Github  
+https://github.com/fossology/fossology
+
+もっと知りたい人は、  
+https://www.spdx.org  
+https://www.openchainproject.org  
+https://github.com/sw360/sw360portal  
+
+
+(C) 2016-2018  Siemens AG, The Linux Foundation - CC-BY-SA 4.0
 

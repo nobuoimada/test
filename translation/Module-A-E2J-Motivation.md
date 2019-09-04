@@ -18,7 +18,7 @@ Basics about Licensing
 - Rights  
 権利
 
-Example for GPL version 2.0 (selection)
+Example for GPL version 2.0 (selection)  
 GPLバージョン2.0の例 (抜粋)
 - Obligations  
 義務
@@ -42,7 +42,7 @@ Further reading:
 - The Linux Foundation provides a public training including basics about licensing https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers  
 Linux Foundationは、ライセンス許諾の基礎を含むトレーニングを広く提供しています。 https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/compliance-basics-for-developers
 - The TLDR Legal pages at https://tldrlegal.com/ provide OUTLINES about license obligations, restrictions, rights  
-TL;DR Legal のページでは、多数のライセンスの義務、制限事項、権利の概要を閲覧できます。 https://tldrlegal.com/ 
+TL;DR Legal のページ https://tldrlegal.com/ では、多数のライセンスの義務、制限事項、権利の概要を閲覧できます。
 
 (slide 3)
 ## Open Source Software Licenses
@@ -69,7 +69,7 @@ Open Source Licenses
 Further reading:  
 もっと知りたい人は…
 - See the SPDX License List pages at http://spdx.org/licenses/ to see a selection of popular open source licenses  
-SPDX License List は、よく知られているオープンソースライセンスのリストです。 http://spdx.org/licenses/
+SPDX License List http://spdx.org/licenses/ は、よく知られているオープンソースライセンスのリストです。
 
 (slide 4)
 
