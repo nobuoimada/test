@@ -213,7 +213,7 @@ MITライセンスは大変良く知られており、パーミッシブであ�
     b) Individual or organization missing  
     個人名や組織名が欠落
 1. Copyright notice missing  
-著作権の告知の欠落
+著作権の告知の欠落  
     a) Again: What about orphaned files? Who wrote them?  
     著作者が不明のファイルはどうするか？誰がそれを書いたのか？
 1. Ambiguous copyright information for every file  
@@ -256,7 +256,7 @@ Analysis & Clarification of Compliance Issues
 
 (slide 16)
 ## Misconceptions: Other Terms and Analysis
-誤解：その他の条件および解析
+誤った認識：その他の条件と解析
 
 Component Analysis & Clarification of Component License Condition  
 コンポーネントの解析＆コンポーネントのライセンス条件の明確化
@@ -265,7 +265,7 @@ Component Analysis & Clarification of Component License Condition
 ライセンス解析
 
     a) How to call what: license analysis vs. component analysis?  
-    何をどう呼ぶか：ライセンス解析か、コンポーネント解析か？  
+    何をどう呼ぶか：ライセンス解析か、それともコンポーネント解析か？  
     b) There is also clarifying license terms required, for example: new licenses, rare licenses, licenses written for the US law, used in Europe, etc.  
     ライセンス条件の明確化も必要である、例えば、新しいライセンス、珍しいライセンス、米国の法律に準拠して書かれたライセンスを欧州で使う場合など
 
