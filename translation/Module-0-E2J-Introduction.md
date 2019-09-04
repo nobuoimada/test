@@ -46,19 +46,19 @@ Consider that if everyone is shy about asking questions no one will ask
 (C) 2016-2018  Siemens AG, The Linux Foundation
 
 
-CC-BY-SA 4.0
+CC-BY-SA 4.0  
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Internet
+Internet  
 https://www.fossology.org
 
-Github
+Github  
 https://github.com/fossology/fossology
 
-Further Links
-https://www.spdx.org
-https://www.openchainproject.org
-https://github.com/sw360/sw360portal
+Further Links  
+https://www.spdx.org  
+https://www.openchainproject.org  
+https://github.com/sw360/sw360portal  
 
 
 (C) 2016-2018  Siemens AG, The Linux Foundation - CC-BY-SA 4.0
