@@ -50,18 +50,18 @@ Further reading:
 
 Open Source Licenses
 オープンソースライセンス
-- There are many of them
-- 多くの種類がある
-- “License proliferation”
-- 「ライセンスの氾濫」の問題
+- There are many of them  
+多くの種類がある
+- “License proliferation”  
+「ライセンスの氾濫」の問題
 - They can be categorized, but requires effort and assessment
 - いくつかのカテゴリに分類可能であるが、労力と判断を要する
-    - Copyleft vs. permissive licenses
-    - コピーレフト vs. パーミッシブ
-    - GPL version 2 compatibility
-    - GPLバージョン2との両立性
-    - Patent left effect
-    - パテントレフト効果
+    - Copyleft vs. permissive licenses  
+    コピーレフト vs. パーミッシブ
+    - GPL version 2 compatibility  
+    GPLバージョン2との両立性
+    - Patent left effect  
+    パテントレフト効果
     - … a lot more possible.
     - 他にもあり…
     
@@ -77,28 +77,28 @@ Further reading:
 解析 - スキャンするだけではなく、結論を下すこと
 
 ### What are the goals?
-ゴールは何か？
-It is about telling the software developers what to care for:
+ゴールは何か？  
+It is about telling the software developers what to care for:  
 ソフトウェア開発者に対して、何に気をつけなければならないかを伝えることが大切
 
-1. Identify obligations to fulfill, including providing for example
-満足しなければならない義務条件 (たとえば以下のような情報の提供) を明らかにすること
-	a) Credits (copyrights, prominent notice)
-	a) クレジット (著作権情報、改変の告示)
-	b) Information about licensing
-	b) ライセンスに関する情報
-	c) Source code
-	c) ソースコード
-1. Check for license compatibility
-ライセンスの両立性をチェックすること
-	a) Simple example: GPL version 2 and CC-BY-SA (copyleft effect examples)
-	a) コピーレフトの代表例としては、GPLバージョン2やCC-BY-SA
-1. Be able to check desired usage
-使いたい用途をチェックすること
-	a) Does you business case match the licensing?
-	a) ライセンス許諾条件がビジネスケースに合っているか？
-	b) Is the context of usage envisaged from the OSS publishers
-	b) 用途の背景は、そのOSSの公開者の想定しているものか？
+1. Identify obligations to fulfill, including providing for example  
+満足しなければならない義務条件 (たとえば以下のような情報の提供) を明らかにすること  
+	a) Credits (copyrights, prominent notice)  
+	a) クレジット (著作権情報、改変の告示)  
+	b) Information about licensing  
+	b) ライセンスに関する情報  
+	c) Source code  
+	c) ソースコード  
+1. Check for license compatibility  
+ライセンスの両立性をチェックすること  
+	a) Simple example: GPL version 2 and CC-BY-SA (copyleft effect examples)  
+	a) コピーレフトの代表例としては、GPLバージョン2やCC-BY-SA  
+1. Be able to check desired usage  
+使いたい用途をチェックできるようになること  
+	a) Does you business case match the licensing?  
+	a) ライセンス許諾条件がビジネスケースに合っているか？  
+	b) Is the context of usage envisaged from the OSS publishers  
+	b) 用途の背景は、そのOSSの公開者の想定しているものか？  
 
 Further reading:
 もっと知りたい人は…
