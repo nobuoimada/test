@@ -134,7 +134,7 @@ $ createdb fossology
 $ createuser --pwprompt --interactive fossy
 Enter password for new role: 						← fossy を入力
 Enter it again: 							← fossy を入力
-Shall the new role be a superuser? (y/n)					← n を入力
+Shall the new role be a superuser? (y/n)				← n を入力
 Shall the new role be allowed to create databases? (y/n)		← n を入力
 Shall the new role be allowed to create more new roles? (y/n)		← n を入力
 ```
@@ -218,4 +218,4 @@ $ sudo systemctl enable docker-fossology.service
 最後にシステムを再起動して、FOSSology が起動していることを確認する。
 
 ---
-OpenChain Japan WG, This document is licensed under Creative Commons CC0 1.0 Universal.
+OpenChain Japan WG - This document is licensed under Creative Commons CC0 1.0 Universal.

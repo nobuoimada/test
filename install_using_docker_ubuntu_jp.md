@@ -218,5 +218,5 @@ $ sudo systemctl enable docker-fossology.service
 最後にシステムを再起動して、FOSSology が起動していることを確認する。
 
 ---
-OpenChain Japan WG, This document is licensed under Creative Commons CC0 1.0 Universal.
+OpenChain Japan WG - This document is licensed under Creative Commons CC0 1.0 Universal.
 
